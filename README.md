@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepikaVelu3/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting Sort
 |  |
 | ------- |
