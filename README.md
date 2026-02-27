@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepikaVelu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/DeepikaVelu3/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/DeepikaVelu3/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeepikaVelu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0344-reverse-string) |
