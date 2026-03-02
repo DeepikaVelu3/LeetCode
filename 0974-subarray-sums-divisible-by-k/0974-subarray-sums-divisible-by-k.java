@@ -1,18 +1,20 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
-        int[] freq=new int[k];
-        freq[0]=1;   
-        int prefixSum=0;
-        int count=0;
-        for (int num : nums) {
-            prefixSum+=num;
-            int remainder=prefixSum % k;
-            if (remainder<0) {
-                remainder+=k;
-            }
-            count+=freq[remainder];
-            freq[remainder]++;
+       HashMap<Integer,Integer> mp=new HashMap<>();
+       mp.put(0,1);
+       int count=0;
+       int prefixsum=0;
+       for(int num:nums){
+        prefixsum+=num;
+        int rem=prefixsum%k;
+        if(rem<0){
+            rem+=k;
         }
-        return count;
+        if(mp.containsKey(rem)){
+            count+=mp.get(rem);
+        }
+        mp.put(rem,mp.getOrDefault(rem,0)+1);
+       }
+       return count;
     }
 }
