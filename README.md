@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/DeepikaVelu3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
