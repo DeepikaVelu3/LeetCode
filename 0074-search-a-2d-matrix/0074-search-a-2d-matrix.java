@@ -3,18 +3,21 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        int row = 0;
-        int col = m-1;
+        int low = 0;
+        int high = n*m-1;
 
-        while(row < n && col >= 0){
+        while(low <= high){
+            int mid = low + (high - low) / 2;
+            int row = mid / m;
+            int col = mid % m;
             if(matrix[row][col] == target){
                 return true;
             }
             else if(matrix[row][col] > target){
-                col--;
+                high = mid-1;
             }
             else{
-                row++;
+                low = mid + 1;
             }
         }
         return false;
