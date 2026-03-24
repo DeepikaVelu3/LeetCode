@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/DeepikaVelu3/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaVelu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0179-largest-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DeepikaVelu3/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0260-single-number-iii) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepikaVelu3/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DeepikaVelu3/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
