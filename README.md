@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/DeepikaVelu3/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DeepikaVelu3/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DeepikaVelu3/LeetCode/tree/master/0078-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DeepikaVelu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/DeepikaVelu3/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DeepikaVelu3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0189-rotate-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DeepikaVelu3/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
