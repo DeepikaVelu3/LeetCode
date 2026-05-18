@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DeepikaVelu3/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaVelu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DeepikaVelu3/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0179-largest-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DeepikaVelu3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DeepikaVelu3/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepikaVelu3/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/2762-continuous-subarrays) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
