@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/DeepikaVelu3/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepikaVelu3/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DeepikaVelu3/LeetCode/tree/master/0055-jump-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DeepikaVelu3/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepikaVelu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DeepikaVelu3/LeetCode/tree/master/0198-house-robber) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepikaVelu3/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DeepikaVelu3/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0316-remove-duplicate-letters) |
