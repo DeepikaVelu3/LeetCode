@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DeepikaVelu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/DeepikaVelu3/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0525-contiguous-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeepikaVelu3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DeepikaVelu3/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/DeepikaVelu3/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/DeepikaVelu3/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DeepikaVelu3/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
