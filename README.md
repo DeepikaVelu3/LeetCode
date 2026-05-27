@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/DeepikaVelu3/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DeepikaVelu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/DeepikaVelu3/LeetCode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/DeepikaVelu3/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DeepikaVelu3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/DeepikaVelu3/LeetCode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
