@@ -9,8 +9,8 @@ class Solution {
         else if(timer >30 && timer <=90){
             return "Red";
         }
-        else{
+      
             return "Invalid";
-        }
+        
     }
 }
