@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        HashSet<Integer> hs = new HashSet<>();
-        for(int ch : sentence.toCharArray()){
+        HashSet<Character> hs = new HashSet<>();
+        for(char ch : sentence.toCharArray()){
             hs.add(ch);
         }
         if(hs.size() == 26){
