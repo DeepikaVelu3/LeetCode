@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3895-count-digit-appearances](https://github.com/DeepikaVelu3/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepikaVelu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3024-type-of-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/3024-type-of-triangle) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DeepikaVelu3/LeetCode/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepikaVelu3/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
 |  |
 | ------- |
