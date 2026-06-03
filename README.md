@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DeepikaVelu3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DeepikaVelu3/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0867-transpose-matrix) |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/DeepikaVelu3/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/DeepikaVelu3/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/DeepikaVelu3/LeetCode/tree/master/0620-not-boring-movies) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
