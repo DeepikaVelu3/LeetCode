@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
