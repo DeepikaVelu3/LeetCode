@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3813-vowel-consonant-score](https://github.com/DeepikaVelu3/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3813-vowel-consonant-score](https://github.com/DeepikaVelu3/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
