@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepikaVelu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DeepikaVelu3/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DeepikaVelu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -258,7 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
-| [3813-vowel-consonant-score](https://github.com/DeepikaVelu3/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
@@ -302,7 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1929-concatenation-of-array) |
-| [3813-vowel-consonant-score](https://github.com/DeepikaVelu3/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
