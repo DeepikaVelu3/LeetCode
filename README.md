@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepikaVelu3/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepikaVelu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DeepikaVelu3/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepikaVelu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
