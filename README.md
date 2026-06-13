@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DeepikaVelu3/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepikaVelu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepikaVelu3/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DeepikaVelu3/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DeepikaVelu3/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DeepikaVelu3/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Math
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DeepikaVelu3/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DeepikaVelu3/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepikaVelu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
