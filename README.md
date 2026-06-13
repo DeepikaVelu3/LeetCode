@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepikaVelu3/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3713-longest-balanced-substring-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/DeepikaVelu3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Trie
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
