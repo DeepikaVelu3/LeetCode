@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/DeepikaVelu3/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/DeepikaVelu3/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DeepikaVelu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/DeepikaVelu3/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/DeepikaVelu3/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/DeepikaVelu3/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/DeepikaVelu3/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/DeepikaVelu3/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/DeepikaVelu3/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/DeepikaVelu3/LeetCode/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepikaVelu3/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/DeepikaVelu3/LeetCode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
