@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/DeepikaVelu3/LeetCode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/DeepikaVelu3/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepikaVelu3/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/DeepikaVelu3/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3024-type-of-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
