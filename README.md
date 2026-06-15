@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DeepikaVelu3/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DeepikaVelu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DeepikaVelu3/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepikaVelu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Tree
 |  |
 | ------- |
