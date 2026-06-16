@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepikaVelu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepikaVelu3/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/DeepikaVelu3/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/DeepikaVelu3/LeetCode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/DeepikaVelu3/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DeepikaVelu3/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DeepikaVelu3/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2206-divide-array-into-equal-pairs](https://github.com/DeepikaVelu3/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/DeepikaVelu3/LeetCode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/DeepikaVelu3/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DeepikaVelu3/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/DeepikaVelu3/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/DeepikaVelu3/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
 |  |
