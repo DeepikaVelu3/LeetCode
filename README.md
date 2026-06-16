@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/DeepikaVelu3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/DeepikaVelu3/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/DeepikaVelu3/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3024-type-of-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/DeepikaVelu3/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/DeepikaVelu3/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
