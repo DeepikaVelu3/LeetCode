@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DeepikaVelu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/1528-shuffle-string) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepikaVelu3/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
