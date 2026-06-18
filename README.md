@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1037-valid-boomerang](https://github.com/DeepikaVelu3/LeetCode/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/DeepikaVelu3/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/DeepikaVelu3/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
