@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DeepikaVelu3/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0525-contiguous-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepikaVelu3/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaVelu3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/DeepikaVelu3/LeetCode/tree/master/0904-fruit-into-baskets) |
