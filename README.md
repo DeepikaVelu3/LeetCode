@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DeepikaVelu3/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DeepikaVelu3/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DeepikaVelu3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepikaVelu3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/DeepikaVelu3/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DeepikaVelu3/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
