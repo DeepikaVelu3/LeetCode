@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DeepikaVelu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepikaVelu3/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/DeepikaVelu3/LeetCode/tree/master/1816-truncate-sentence) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/DeepikaVelu3/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/DeepikaVelu3/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1816-truncate-sentence](https://github.com/DeepikaVelu3/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DeepikaVelu3/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
