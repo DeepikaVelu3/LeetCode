@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/DeepikaVelu3/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepikaVelu3/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/DeepikaVelu3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DeepikaVelu3/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DeepikaVelu3/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DeepikaVelu3/LeetCode/tree/master/0066-plus-one) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepikaVelu3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DeepikaVelu3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DeepikaVelu3/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DeepikaVelu3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DeepikaVelu3/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DeepikaVelu3/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
