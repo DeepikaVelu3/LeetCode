@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/DeepikaVelu3/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/DeepikaVelu3/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/DeepikaVelu3/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/DeepikaVelu3/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/DeepikaVelu3/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
