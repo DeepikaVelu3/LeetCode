@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeepikaVelu3/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0748-shortest-completing-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepikaVelu3/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0833-find-and-replace-in-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DeepikaVelu3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepikaVelu3/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DeepikaVelu3/LeetCode/tree/master/0645-set-mismatch) |
+| [0748-shortest-completing-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0833-find-and-replace-in-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0888-fair-candy-swap](https://github.com/DeepikaVelu3/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DeepikaVelu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0748-shortest-completing-word](https://github.com/DeepikaVelu3/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/DeepikaVelu3/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepikaVelu3/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
