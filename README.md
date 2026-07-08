@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepikaVelu3/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/DeepikaVelu3/LeetCode/tree/master/1816-truncate-sentence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/DeepikaVelu3/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/DeepikaVelu3/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
