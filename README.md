@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/DeepikaVelu3/LeetCode/tree/master/1291-sequential-digits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeepikaVelu3/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
