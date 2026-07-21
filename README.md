@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepikaVelu3/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3024-type-of-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/DeepikaVelu3/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3452-sum-of-good-numbers](https://github.com/DeepikaVelu3/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeepikaVelu3/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/DeepikaVelu3/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3024-type-of-triangle](https://github.com/DeepikaVelu3/LeetCode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/DeepikaVelu3/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepikaVelu3/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepikaVelu3/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DeepikaVelu3/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
