@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeepikaVelu3/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/DeepikaVelu3/LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/DeepikaVelu3/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/DeepikaVelu3/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/DeepikaVelu3/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/DeepikaVelu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/DeepikaVelu3/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeepikaVelu3/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/DeepikaVelu3/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/DeepikaVelu3/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepikaVelu3/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DeepikaVelu3/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2418-sort-the-people](https://github.com/DeepikaVelu3/LeetCode/tree/master/2418-sort-the-people) |
