@@ -1,11 +1,15 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-       for(char a:ransomNote.toCharArray()){
-        if(!magazine.contains(String.valueOf(a))){
-        return false;
+        HashMap<Character,Integer> mp = new HashMap<>();
+        for(char ch : magazine.toCharArray()){
+            mp.put(ch , mp.getOrDefault(ch,0)+1);
         }
-        magazine=magazine.replaceFirst(String.valueOf(a),"");
-       }
-       return true;
+        for(char ch:ransomNote.toCharArray()){
+            if(mp.getOrDefault(ch,0)==0 ){
+                return false;
+            }
+            mp.put(ch,mp.get(ch)-1);
+        }
+        return true;
     }
 }
