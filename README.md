@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepikaVelu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/DeepikaVelu3/LeetCode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/DeepikaVelu3/LeetCode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/DeepikaVelu3/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepikaVelu3/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/DeepikaVelu3/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/DeepikaVelu3/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepikaVelu3/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/DeepikaVelu3/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeepikaVelu3/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/DeepikaVelu3/LeetCode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/DeepikaVelu3/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepikaVelu3/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeepikaVelu3/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -658,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeepikaVelu3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/DeepikaVelu3/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
